@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="futuristic_background">#121212</color>
+    <color name="futuristic_accent">#FF5722</color> <!-- Dark orange color for the BMI result -->
+    <color name="purple">#9C27B0</color> <!-- Light-dark purple color -->
+    <color name="futuristic_text">#667788</color>
+    <color name="lightorange">#FFA500</color> <!-- Orange for selected -->
+    <color name="white">#FFFFFF</color> <!-- White for unselected -->
+    <color name="orange">#FFA500</color> <!-- Example color -->
+    <color name="lightgrey">#D3D3D3</color> <!-- Light gray for the unselected state -->
+    <color name="unselected_text_color">#000000</color> <!-- Black for the unselected text -->
+    <color name="bmiUnderweight">#FF6347</color> <!-- Red for underweight -->
+    <color name="bmiNormal">#008000</color> <!-- Green for normal -->
+    <color name="bmiOverweight">#FFD700</color> <!-- Yellow for overweight -->
+    <color name="bmiObese">#FF6347</color>
+        <!-- Other color definitions -->
+    <!-- Add other color definitions here -->
+</resources>

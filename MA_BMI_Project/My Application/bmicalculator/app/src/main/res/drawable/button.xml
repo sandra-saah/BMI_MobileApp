@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <solid android:color="#9C27B0"/> &lt;!&ndash; Light-dark purple color &ndash;&gt;-->
+<!--    <corners android:radius="16dp"/> &lt;!&ndash; Rounded corners &ndash;&gt;-->
+<!--</shape>-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- Pressed state -->
+<item android:state_pressed="true" android:drawable="@drawable/button_pressed" />
+<!-- Default state -->
+<item android:drawable="@drawable/button_normal" />
+</selector>
